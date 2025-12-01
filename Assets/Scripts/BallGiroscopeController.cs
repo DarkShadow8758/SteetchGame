@@ -1,5 +1,6 @@
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody2D))]
 public class BallGiroscopeController : MonoBehaviour
 {
     public float speed = 12f;
@@ -8,12 +9,12 @@ public class BallGiroscopeController : MonoBehaviour
     public Vector3 rotFixEuler = new Vector3 (90, 0 , 0);
     public bool AutocalibrationOnStart = true;
 
-    Rigidbody rb;
+    Rigidbody2D rb;
     Quaternion calib = Quaternion.identity;
 
     private void Start()
     {
-        rb = GetComponent<Rigidbody>();
+        rb = GetComponent<Rigidbody2D>();
         rb.linearDamping = 0.1f;
         rb.angularDamping = 0.1f;
         Input.gyro.enabled = true;
@@ -32,9 +33,8 @@ public class BallGiroscopeController : MonoBehaviour
 
     void ZeroMotion()
     {
-
-        rb.linearVelocity = Vector3.zero;
-        rb.angularVelocity = Vector3.zero;
+        rb.linearVelocity = Vector2.zero;
+        rb.angularVelocity = 0f;
     }
 
     private void FixedUpdate()
@@ -43,20 +43,17 @@ public class BallGiroscopeController : MonoBehaviour
         Quaternion rel = Quaternion.Inverse(calib) * worldRot;
 
         Vector3 fwd = rel * Vector3.forward;
-        Vector3 dir = new Vector3(fwd.x, 0f, fwd.z);
+        Vector2 dir2D = new Vector2(fwd.x, fwd.z);
 
-        if (dir.magnitude < Deadzone)
+        if (dir2D.magnitude < Deadzone)
         {
-            if (rb.linearVelocity.magnitude < sleepVel && rb.angularVelocity.magnitude < sleepVel)
+            if (rb.linearVelocity.magnitude < sleepVel && Mathf.Abs(rb.angularVelocity) < sleepVel)
             {
                 rb.Sleep();
-               
             }
             return;
-
-          
         }
         rb.WakeUp();
-        rb.AddForce(dir.normalized * dir.magnitude * speed, ForceMode.Acceleration);
+        rb.AddForce(dir2D.normalized * dir2D.magnitude * speed, ForceMode2D.Force);
     }
 }
