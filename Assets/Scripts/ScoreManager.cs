@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class ScoreManager : MonoBehaviour
 {
@@ -80,4 +81,13 @@ public class ScoreManager : MonoBehaviour
     }
 
     public int GetTotalPoints() => totalPoints;
+
+    public void EndMinigame()
+    {
+        if (totalPoints >= 200)
+        {
+            SceneManager.LoadScene(3);
+        }
+        else { SceneManager.LoadScene(4); }
+    }
 }
