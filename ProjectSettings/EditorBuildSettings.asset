@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: 2d28bfbf3034e8644ae844322addb4fc
   - enabled: 1
+    path: Assets/Scenes/SceneHome.unity
+    guid: 16cd779dc00dd2340b6325f0fb6f4ffa
+  - enabled: 1
     path: Assets/Scenes/SceneRockChase.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   m_configObjects:

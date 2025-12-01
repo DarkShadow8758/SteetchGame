@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 774d5c50e01f1cc429ad01f190ea529c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4274974380475047466
+    second: Dummie Novo-Sheet_0
+  - first:
+      213: -2690471322578439653
+    second: Dummie Novo-Sheet_1
+  - first:
+      213: 6342744967699256940
+    second: Dummie Novo-Sheet_2
+  - first:
+      213: 1280520604783886740
+    second: Dummie Novo-Sheet_3
+  - first:
+      213: -4396791824764098990
+    second: Dummie Novo-Sheet_4
+  - first:
+      213: -4075531931365816320
+    second: Dummie Novo-Sheet_5
+  - first:
+      213: -1297725659526102710
+    second: Dummie Novo-Sheet_6
+  - first:
+      213: -7956408432683797880
+    second: Dummie Novo-Sheet_7
+  - first:
+      213: -822059405690616125
+    second: Dummie Novo-Sheet_8
+  - first:
+      213: 4269015268541434653
+    second: Dummie Novo-Sheet_9
+  - first:
+      213: 3138796543127036388
+    second: Dummie Novo-Sheet_10
+  - first:
+      213: 5306947336852317358
+    second: Dummie Novo-Sheet_11
+  - first:
+      213: 3435279028857938105
+    second: Dummie Novo-Sheet_12
+  - first:
+      213: -3916591156799083540
+    second: Dummie Novo-Sheet_13
+  - first:
+      213: 3276287315642431571
+    second: Dummie Novo-Sheet_14
+  - first:
+      213: -9104705991342167341
+    second: Dummie Novo-Sheet_15
+  - first:
+      213: -6432085217578651174
+    second: Dummie Novo-Sheet_16
+  - first:
+      213: 8453598615393626372
+    second: Dummie Novo-Sheet_17
+  - first:
+      213: -7216276297210457405
+    second: Dummie Novo-Sheet_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 205
+        width: 390
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1a3e3637d3ca4c0800000000000000
+      internalID: -4274974380475047466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 205
+        width: 379
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12365b369689aad0800000000000000
+      internalID: -2690471322578439653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 205
+        width: 358
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c665c9c51f4f50850800000000000000
+      internalID: 6342744967699256940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 205
+        width: 379
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49146bf94b255c110800000000000000
+      internalID: 1280520604783886740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 205
+        width: 390
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256289d61257bf2c0800000000000000
+      internalID: -4396791824764098990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 4211
+        y: 205
+        width: 379
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008cd203d4dc077c0800000000000000
+      internalID: -4075531931365816320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 5022
+        y: 205
+        width: 358
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a418908636d8dfde0800000000000000
+      internalID: -1297725659526102710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 5811
+        y: 205
+        width: 379
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882b5f17fa8259190800000000000000
+      internalID: -7956408432683797880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 6605
+        y: 205
+        width: 390
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6ca8373557794f0800000000000000
+      internalID: -822059405690616125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 7411
+        y: 205
+        width: 379
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b812eb4c69e3b30800000000000000
+      internalID: 4269015268541434653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 8222
+        y: 205
+        width: 358
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1af4f63de3f8b20800000000000000
+      internalID: 3138796543127036388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 9011
+        y: 205
+        width: 379
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4a9c64c7016a940800000000000000
+      internalID: 5306947336852317358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 9805
+        y: 205
+        width: 390
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b02d6b63109caf20800000000000000
+      internalID: 3435279028857938105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 10611
+        y: 205
+        width: 379
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebed88081975a9c0800000000000000
+      internalID: -3916591156799083540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 11422
+        y: 205
+        width: 358
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3583cfe74f5b77d20800000000000000
+      internalID: 3276287315642431571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 12205
+        y: 205
+        width: 390
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daeda1c32695a180800000000000000
+      internalID: -9104705991342167341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 13011
+        y: 205
+        width: 379
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1fe21c294acb6a0800000000000000
+      internalID: -6432085217578651174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 13822
+        y: 205
+        width: 358
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4096540d627315570800000000000000
+      internalID: 8453598615393626372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dummie Novo-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 14611
+        y: 205
+        width: 379
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c213bfe0f2aadb90800000000000000
+      internalID: -7216276297210457405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dummie Novo-Sheet_0: -4274974380475047466
+      Dummie Novo-Sheet_1: -2690471322578439653
+      Dummie Novo-Sheet_10: 3138796543127036388
+      Dummie Novo-Sheet_11: 5306947336852317358
+      Dummie Novo-Sheet_12: 3435279028857938105
+      Dummie Novo-Sheet_13: -3916591156799083540
+      Dummie Novo-Sheet_14: 3276287315642431571
+      Dummie Novo-Sheet_15: -9104705991342167341
+      Dummie Novo-Sheet_16: -6432085217578651174
+      Dummie Novo-Sheet_17: 8453598615393626372
+      Dummie Novo-Sheet_18: -7216276297210457405
+      Dummie Novo-Sheet_2: 6342744967699256940
+      Dummie Novo-Sheet_3: 1280520604783886740
+      Dummie Novo-Sheet_4: -4396791824764098990
+      Dummie Novo-Sheet_5: -4075531931365816320
+      Dummie Novo-Sheet_6: -1297725659526102710
+      Dummie Novo-Sheet_7: -7956408432683797880
+      Dummie Novo-Sheet_8: -822059405690616125
+      Dummie Novo-Sheet_9: 4269015268541434653
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
