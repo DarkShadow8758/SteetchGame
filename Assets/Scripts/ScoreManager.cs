@@ -84,10 +84,12 @@ public class ScoreManager : MonoBehaviour
 
     public void EndMinigame()
     {
+        Debug.Log("Total points: "+ totalPoints);
         if (totalPoints >= 200)
         {
+            Debug.Log("Totaaaaaaa");
             SceneManager.LoadScene(3);
         }
-        else { SceneManager.LoadScene(4); }
+        else { SceneManager.LoadScene(4); Debug.Log("bbbbbbbbbbbb "); }
     }
 }
