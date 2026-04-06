@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: e3c56482559542b458988a39852f7d3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7510827519570015021
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -8876623529590125144
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -356983129071710726
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -2402559977203038287
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: 6567379692204527428
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: 5210253946764615285
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: -404722789645900080
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: -4923407921484584224
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 6647158871299913162
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: 1387887945213223877
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -4981663419464687741
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: -8864907086965102672
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: 8027144300190215280
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: 4657530205703492312
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: 7922617251182506735
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: 1755168790528180082
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 8689191761817201162
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: 8204642837639347257
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: 3717342623567454468
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: -1722814436177316337
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: -2686532210510682817
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: 658191985024338323
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: 1453336989615410594
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: 4813122700462533653
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: -5939455185315859353
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: 6567392325337285166
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: -2713828584858519387
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: -6027620184703376696
+    second: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 4093
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23f231c5d1db3860800000000000000
+      internalID: 7510827519570015021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 4117
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad08e12ee5efc480800000000000000
+      internalID: -8876623529590125144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 4100
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd8fd84cbdbb0bf0800000000000000
+      internalID: -356983129071710726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 4107
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b70e371e6468aed0800000000000000
+      internalID: -2402559977203038287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 4097
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f07fad805042b50800000000000000
+      internalID: 6567379692204527428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3307
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e5b760c5a8e4840800000000000000
+      internalID: 5210253946764615285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 3293
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6a6a264c2226af0800000000000000
+      internalID: -404722789645900080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 3323
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea219ba49a8cabb0800000000000000
+      internalID: -4923407921484584224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 3306
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5fa6976c37f3c50800000000000000
+      internalID: 6647158871299913162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 3324
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c32b7a9bb4c24310800000000000000
+      internalID: 1387887945213223877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2493
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fdf3493839ddab0800000000000000
+      internalID: -4981663419464687741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2510
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b72a9209f589f480800000000000000
+      internalID: -8864907086965102672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 2493
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ca3ad1635266f60800000000000000
+      internalID: 8027144300190215280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 2507
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2db91ab0fd2a040800000000000000
+      internalID: 4657530205703492312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 2511
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe27d140a6ac2fd60800000000000000
+      internalID: 7922617251182506735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1707
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fb84837bc9b5810800000000000000
+      internalID: 1755168790528180082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1707
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a6d5cbed5369870800000000000000
+      internalID: 8689191761817201162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1724
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c3276d03fbcd170800000000000000
+      internalID: 8204642837639347257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 1707
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401282abb67a69330800000000000000
+      internalID: 3717342623567454468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 1723
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f067cbde5655718e0800000000000000
+      internalID: -1722814436177316337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 885
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35adda303587bad0800000000000000
+      internalID: -2686532210510682817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 915
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39982658f1e522900800000000000000
+      internalID: 658191985024338323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 907
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad46fcba4a4b2410800000000000000
+      internalID: 1453336989615410594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 907
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c20755895abc240800000000000000
+      internalID: 4813122700462533653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 904
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76475ef3af0d29da0800000000000000
+      internalID: -5939455185315859353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 107
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e220b5c3680142b50800000000000000
+      internalID: 6567392325337285166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 86
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8f432d74b865ad0800000000000000
+      internalID: -2713828584858519387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneSpinningGray-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 107
+        width: 640
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2e7c1b067995ca0800000000000000
+      internalID: -6027620184703376696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 73b15fde2e2c28143af602a4a800015a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_0: 7510827519570015021
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_1: -8876623529590125144
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_10: -4981663419464687741
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_11: -8864907086965102672
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_12: 8027144300190215280
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_13: 4657530205703492312
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_14: 7922617251182506735
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_15: 1755168790528180082
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_16: 8689191761817201162
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_17: 8204642837639347257
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_18: 3717342623567454468
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_19: -1722814436177316337
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_2: -356983129071710726
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_20: -2686532210510682817
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_21: 658191985024338323
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_22: 1453336989615410594
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_23: 4813122700462533653
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_24: -5939455185315859353
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_25: 6567392325337285166
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_26: -2713828584858519387
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_27: -6027620184703376696
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_3: -2402559977203038287
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_4: 6567379692204527428
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_5: 5210253946764615285
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_6: -404722789645900080
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_7: -4923407921484584224
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_8: 6647158871299913162
+      StoneSpinningGray-ezgif.com-gif-to-sprite-converter_9: 1387887945213223877
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

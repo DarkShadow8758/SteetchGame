@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: d82afa5724146b64b837133e871f9804
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1103649347983031489
+    second: T_steetch_blue_sheet_0
+  - first:
+      213: 6357524039529470773
+    second: T_steetch_blue_sheet_1
+  - first:
+      213: 2871910213208550006
+    second: T_steetch_blue_sheet_2
+  - first:
+      213: -4986964394707620074
+    second: T_steetch_blue_sheet_3
+  - first:
+      213: -3426074400879192965
+    second: T_steetch_blue_sheet_4
+  - first:
+      213: 1200989606004743580
+    second: T_steetch_blue_sheet_5
+  - first:
+      213: -4360983881141504331
+    second: T_steetch_blue_sheet_6
+  - first:
+      213: -8241712217794640756
+    second: T_steetch_blue_sheet_7
+  - first:
+      213: -7645044009874425771
+    second: T_steetch_blue_sheet_8
+  - first:
+      213: -5967594100935687491
+    second: T_steetch_blue_sheet_9
+  - first:
+      213: -3924980723912130638
+    second: T_steetch_blue_sheet_10
+  - first:
+      213: 3786954614679892389
+    second: T_steetch_blue_sheet_11
+  - first:
+      213: -3087767920975665364
+    second: T_steetch_blue_sheet_12
+  - first:
+      213: 3331948178767104341
+    second: T_steetch_blue_sheet_13
+  - first:
+      213: 6253624286940747687
+    second: T_steetch_blue_sheet_14
+  - first:
+      213: -7675220441189761909
+    second: T_steetch_blue_sheet_15
+  - first:
+      213: -5710179376437211350
+    second: T_steetch_blue_sheet_16
+  - first:
+      213: 5917778935495255629
+    second: T_steetch_blue_sheet_17
+  - first:
+      213: -1898341524205531144
+    second: T_steetch_blue_sheet_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 202
+        width: 437
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3341e0f3cc0fa0f0800000000000000
+      internalID: -1103649347983031489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 202
+        width: 437
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b192b2e667a3850800000000000000
+      internalID: 6357524039529470773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 202
+        width: 437
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aac157f131bd720800000000000000
+      internalID: 2871910213208550006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 202
+        width: 437
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f6ee91e4ebacab0800000000000000
+      internalID: -4986964394707620074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 202
+        width: 437
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7459890c732470d0800000000000000
+      internalID: -3426074400879192965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 4185
+        y: 202
+        width: 437
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d59dcfea5caa010800000000000000
+      internalID: 1200989606004743580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4986
+        y: 202
+        width: 437
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b63b5df34caa73c0800000000000000
+      internalID: -4360983881141504331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 5787
+        y: 202
+        width: 437
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c848a55876e8f9d80800000000000000
+      internalID: -8241712217794640756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 6588
+        y: 202
+        width: 437
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558f43b6af857e590800000000000000
+      internalID: -7645044009874425771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 7386
+        y: 202
+        width: 437
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2030a68c8de2da0800000000000000
+      internalID: -5967594100935687491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 8186
+        y: 202
+        width: 437
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf36f8b3daa789c0800000000000000
+      internalID: -3924980723912130638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 8988
+        y: 202
+        width: 437
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1758c6827fd8430800000000000000
+      internalID: 3786954614679892389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 9787
+        y: 202
+        width: 437
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2726618f6b0625d0800000000000000
+      internalID: -3087767920975665364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 10589
+        y: 202
+        width: 437
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5594c6517357d3e20800000000000000
+      internalID: 3331948178767104341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 11386
+        y: 202
+        width: 437
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7dbd5e72659c650800000000000000
+      internalID: 6253624286940747687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 12189
+        y: 202
+        width: 437
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c311e7ca32c7590800000000000000
+      internalID: -7675220441189761909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 12991
+        y: 202
+        width: 437
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fc2b76c1e51c0b0800000000000000
+      internalID: -5710179376437211350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 13784
+        y: 202
+        width: 437
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46eb7d869c202250800000000000000
+      internalID: 5917778935495255629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_steetch_blue_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 14586
+        y: 202
+        width: 437
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff0b5b017cb7a5e0800000000000000
+      internalID: -1898341524205531144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      T_steetch_blue_sheet_0: -1103649347983031489
+      T_steetch_blue_sheet_1: 6357524039529470773
+      T_steetch_blue_sheet_10: -3924980723912130638
+      T_steetch_blue_sheet_11: 3786954614679892389
+      T_steetch_blue_sheet_12: -3087767920975665364
+      T_steetch_blue_sheet_13: 3331948178767104341
+      T_steetch_blue_sheet_14: 6253624286940747687
+      T_steetch_blue_sheet_15: -7675220441189761909
+      T_steetch_blue_sheet_16: -5710179376437211350
+      T_steetch_blue_sheet_17: 5917778935495255629
+      T_steetch_blue_sheet_18: -1898341524205531144
+      T_steetch_blue_sheet_2: 2871910213208550006
+      T_steetch_blue_sheet_3: -4986964394707620074
+      T_steetch_blue_sheet_4: -3426074400879192965
+      T_steetch_blue_sheet_5: 1200989606004743580
+      T_steetch_blue_sheet_6: -4360983881141504331
+      T_steetch_blue_sheet_7: -8241712217794640756
+      T_steetch_blue_sheet_8: -7645044009874425771
+      T_steetch_blue_sheet_9: -5967594100935687491
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

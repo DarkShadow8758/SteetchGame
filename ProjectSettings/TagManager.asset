@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 3
   tags:
   - Damage
+  - Trigger
+  - Curve
+  - Destroy
+  - Item
+  - Obstacle
   layers:
   - Default
   - TransparentFX
@@ -12,7 +17,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - roads
   - 
   - 
   - 
